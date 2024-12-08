@@ -1,6 +1,6 @@
 {
   "name": "chaddi-ui",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Reusable component library for react. Here you can find every type component you need that too with all kind of animations.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
