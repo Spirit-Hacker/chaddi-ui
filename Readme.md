@@ -89,7 +89,7 @@ The `content` array in `tailwind.config.js` determines which files Tailwind shou
 
 ## **Support**
 
-If you encounter any issues or have questions, please open an issue on the [GitHub repository](https://github.com/chaddi-ui).
+If you encounter any issues or have questions, please open an issue on the [GitHub repository](https://github.com/Spirit-Hacker/chaddi-ui).
 
 ---
 
