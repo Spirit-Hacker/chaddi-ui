@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import {Button, Modal} from "./index";
+import { Button, Modal } from "./index";
 
 const App: React.FC = () => {
   const [isModalOpen, setIsModalOpen] = useState(false);
